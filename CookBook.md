@@ -1,6 +1,6 @@
 # CleaningDataProject - Data CookBook
 
-###The output of the run_analysis.R script is a file called tidyDataAverages.txt
+### The output of the run_analysis.R script is a file called tidyDataAverages.txt
 that has the following fields :
 
 * subject : the individual the data was measured on (1-30)
