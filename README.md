@@ -2,6 +2,8 @@
 
 ### This script can be run by source this file within an R prompt : source('run_analysis.R')
 
+It requires that the plyr package be installed.
+
 ### The script uses the data located in the following files :
 
 * activity_labels.txt : key to the activities
